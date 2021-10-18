@@ -13,7 +13,7 @@
   "author": "CodetrixStudio",
   "license": "MIT",
   "dependencies": {
-    "@capacitor/core": "ˆ2.4.6"
+    "@capacitor/core": "^2.4.6"
   },
   "devDependencies": {
     "@capacitor/android": "^2.4.6",
